@@ -15,10 +15,10 @@ This project explores historical market data to identify significant trends, exa
 
 ## Stakeholder Analysis & Investment Decision-Making
 The findings can provide different forms of historical market intelligence depending on the stakeholder's investment objectives, risk tolerance and financial responsibilities.
-**Banks and Financial Institutions Primary interests - Financial stability, counterparty exposure, liquidity and risk management.
-**Pension Funds and Institutional Asset Managers Primary interest - Long-term capital preservation, diversification and risk-adjusted returns.
-**Active Traders and Short-Term Investors Primary interest: Short-term price movements, market activity and trading opportunities.
-**Long-Term Investors Primary interest: Capital appreciation and long-term wealth accumulation.
+**Banks and Financial Institutions Primary interests** - Financial stability, counterparty exposure, liquidity and risk management.
+**Pension Funds and Institutional Asset Managers Primary interest** - Long-term capital preservation, diversification and risk-adjusted returns.
+**Active Traders and Short-Term Investors Primary interest**: Short-term price movements, market activity and trading opportunities.
+**Long-Term Investors Primary interest**: Capital appreciation and long-term wealth accumulation.
 
 ## Business Objectives
 
@@ -87,7 +87,7 @@ In 2014, Bitcoin recorded a maximum daily increase of **+336%** and a maximum da
 
 ### 3. Trading Volume vs Price
 
-The correlation between average annual trading volume and average annual Bitcoin price was **0.95**, indicating a very strong positive relationship. As average trading volume increased, average Bitcoin prices also tended to increase.
+The **correlation** between average annual trading volume and average annual Bitcoin price was **0.95**, indicating a very strong positive relationship. As average trading volume increased, average Bitcoin prices also tended to increase.
 
 <img width="699" height="568" alt="bitcoin 2" src="https://github.com/user-attachments/assets/d6e0660f-e355-4451-aee6-965ec2afa6e8" />
 
