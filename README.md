@@ -99,7 +99,7 @@ The **correlation** between average annual trading volume and average annual Bit
 The analysis identifies Bitcoin as a historically high-growth but highly volatile asset between 2011 and 2020.
 Its historical price appreciation may interest long-term investors, while its volatility, lack of predictable income and potential for substantial losses create challenges for banks and pension funds.
 
-** Investment decisions should therefore consider risk tolerance, liquidity requirements, portfolio diversification and investment objectives rather than historical returns alone.
+**Investment decisions should therefore consider risk tolerance, liquidity requirements, portfolio diversification and investment objectives rather than historical returns alone.**
 
 ## Business Value
 
